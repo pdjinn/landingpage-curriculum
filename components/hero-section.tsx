@@ -80,7 +80,7 @@ export default function HeroSection() {
                                     Pedro Nunes <br /> 
                                 </h1>
                                 <p className="mx-auto mt-8 hidden max-w-2xl text-wrap text-lg sm:block">Espero poder voltar a integrar o time Fenasbac, agora contribuindo na área de Tecnologia e Desenvolvimento.</p>
-                                <p className="mx-auto mt-6 max-w-2xl text-wrap sm:hidden">Highly customizable components for building modern websites and applications, with your personal spark.</p>
+                                <p className="mx-auto mt-6 max-w-2xl text-wrap sm:hidden">Espero poder voltar a integrar o time Fenasbac, agora contribuindo na área de Tecnologia e Desenvolvimento.</p>
 
                                 <div className="mt-8">
                                     <Button
